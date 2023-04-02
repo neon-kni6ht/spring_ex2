@@ -235,7 +235,7 @@ public class CrptApi {
     }
 
     //?? implement cloud sign
-    String getSignedData() {
+    private String getSignedData() {
         return data;
     }
 
